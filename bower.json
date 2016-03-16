@@ -1,7 +1,7 @@
 {
   "name": "md-fonts",
   "description": "Material Design Fonts",
-  "version":"1.0.2",
+  "version":"1.0.3",
   "main": "dist/md.fonts.css",
   "authors": [
     "S. Francis"

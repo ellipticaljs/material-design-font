@@ -15,14 +15,14 @@
 @mixin roboto-standard() {
   @include roboto-regular();
   @include roboto-medium();
-  @include roboto-bold();
+  @include roboto-light();
 }
 
 /// roboto standard fonts + light,thin and black
 /// @access public
 @mixin roboto-extended() {
   @include roboto-standard();
-  @include roboto-light();
+  @include roboto-bold();
   @include roboto-thin();
   @include roboto-black();
 }
